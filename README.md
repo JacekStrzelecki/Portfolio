@@ -63,6 +63,6 @@ This portfolio is treated by me as some kind of extension of my CV where I would
 # My test documentation
 * [Test Cases](https://drive.google.com/open?id=1-p-bt8dA7omWKM2mr__aBeLggMrs3YF0)
 * [Test Plan](https://drive.google.com/file/d/1Vx-CETt920NECvweRH6EqfL110uEBIMM/view?usp=sharing)
-* [Test Report]()
+* [Test Report](https://drive.google.com/file/d/1wOKNgqCZF3TexLnN3kLNBGFL0kD51sH4/view?usp=sharing)
 
 
