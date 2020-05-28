@@ -49,7 +49,7 @@ My name is Jacek Strzelecki. I am master of performed art and master of music ar
 
 # Crowdtesting platforms
 * www.utest.com
-* www.testibrds.com
+* www.testbirds.com
 * www.we-are-testers.com
 
 # Webinars and podcasts
