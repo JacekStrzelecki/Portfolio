@@ -46,6 +46,7 @@ This portfolio is treated by me as some kind of extension of my CV where I would
 * [toniebug.pl](https://toniebug.pl)
 * [Poradnik Piotra Wicherskiego](https://pwicherski.gitbook.io)
 * [softwaretestingtricks.com](https://softwaretestingtricks.com)
+* [questioningsoftware.com](https://www.questioningsoftware.com)
 
 
 # Crowdtesting platforms
