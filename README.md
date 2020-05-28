@@ -44,8 +44,8 @@
 
 
 # My projects
-*Test Cases
-*Test Plan
-*Test Report
+* Test Cases
+* Test Plan
+* Test Report
 
 
