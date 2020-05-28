@@ -1,7 +1,7 @@
 # Portfolio
 
 # About Me
-In the past, my interests were focused on insurance matters. Being an insurance broker led me to gain strong analytical thinking skills. In my opinion a skillset needed to perform a job of insurance broker is very similar with skills a software tester must have. Thanks to that I would like to take advantage of my previous experience to work in IT sector. Nowadays my goal is to develop myself in the field of software testing in order to become very good manual software tester. After gaining some commercial experience in manual testing, my development will be focused on automation tests. 
+In the past, my interests were focused on insurance matters. Being an insurance broker enabled me to gain strong analytical thinking skills. In my opinion a skillset needed to perform a job of insurance broker is very similar with skills a software tester must have. Thanks to that I would like to take advantage of my previous experience to work in IT sector. Nowadays my goal is to develop myself in the field of software testing in order to become very good manual software tester. After gaining some commercial experience in manual testing, my development will be focused on automation tests. 
 This portfolio is treated by me as some kind of extension of my CV where I would like to share my experience.
 
 # Tools
@@ -15,9 +15,9 @@ This portfolio is treated by me as some kind of extension of my CV where I would
 * Exploratory Testing Chrome Extension
 
 # Skills
+* Testing applications in SCRUM Methodology
 *	Creating test plans
 *	Creating test cases 
-*	Testing applications in SCRUM Methodology
 *	Reporting defects
 *	Creating test reports
 
@@ -41,17 +41,17 @@ This portfolio is treated by me as some kind of extension of my CV where I would
 * Tester oprogramowania - wsparcie na na starcie
 
 # Recommended blogs
-* testuj.pl
-* testerzy.pl
-* toniebug.pl
-* pwicherski.gitbook.io
-* softwaretestingtricks.com
-* questioningsoftware.com
+* [testuj.pl](https://testuj.pl)
+* [testerzy.pl](https://testerzy.pl)
+* [toniebug.pl](https://toniebug.pl)
+* [Poradnik Piotra Wicherskiego](https://pwicherski.gitbook.io)
+* [softwaretestingtricks.com](https://softwaretestingtricks.com)
+* [questioningsoftware.com](https://questioningsoftware.com)
 
 # Crowdtesting platforms
-* www.utest.com
-* www.testbirds.com
-* www.we-are-testers.com
+* [utest](https://utest.com)
+* [testbirds](https://testbirds.com)
+* [we-are-testers](https://we-are-testers.com)
 
 # Webinars and podcasts
 * PANDA — Performance and Automation #4
@@ -60,8 +60,8 @@ This portfolio is treated by me as some kind of extension of my CV where I would
 * Testing Parrot #6 - O testowaniu mobilnym 
 
 # My projects
-* Test Cases
-* Test Plan
-* Test Report
+* [Test Cases]()
+* [Test Plan]()
+* [Test Report]()
 
 
