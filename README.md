@@ -9,29 +9,29 @@ This portfolio is treated by me as some kind of extension of my CV where I would
 * SoapUI, Postman
 * Basics of MySQL, HTML, CSS
 * Basics of Selenium IDE
-* JING 
+* Jing
 * Bug Magnet
 * Mouse Click Highlighter
 * Exploratory Testing Chrome Extension
 
 # Skills
-* Testing applications in SCRUM Methodology
-*	Creating test plans
-*	Creating test cases 
-*	Reporting defects
-*	Creating test reports
+* Testing Applications in SCRUM Methodology
+*	Creating Test Plans
+*	Creating Test Cases 
+*	Reporting Defects
+*	Creating Test Reports
 
 # Certificates
-* ISTQB Foundation Level - in progress - waiting for the date of exam (currently stationary exams were suspended)
+* ISTQB Foundation Level - in progress - waiting for the date of this exam (currently stationary exams were suspended)
 
 # Courses
-* Coders Lab Szkoła IT - Kurs - Tester manualny - 144h
+* **Coders Lab Szkoła IT - Kurs - Tester manualny - 144h**
 * Postman Bootcamp - in progress
 * Best QA Manual Software Testing: Live Project + Agile + Jira + API - online course on Udemy platform
 * „MySQL. Bazy danych, język zapytań SQL” - online course on YT - Lecturer - Mirosław Zelent
 * Workshops in the field of Software Testing - CODE{sun}DAY Poznań  
 
-# Books
+# Books Read
 * Radosław Smilgin - "Zawód Tester"
 * Rafał Pawlak - "Testowanie oprogramowania. Podręcznik dla początkujących"
 * Ben Forta - "SQL w mgnieniu oka"
@@ -40,7 +40,7 @@ This portfolio is treated by me as some kind of extension of my CV where I would
 * Testowanie oprogramowania
 * Tester oprogramowania - wsparcie na starcie
 
-# Recommended blogs
+# Blogs Read
 * [testuj.pl](https://testuj.pl)
 * [testerzy.pl](https://testerzy.pl)
 * [toniebug.pl](https://toniebug.pl)
@@ -48,19 +48,18 @@ This portfolio is treated by me as some kind of extension of my CV where I would
 * [softwaretestingtricks.com](https://softwaretestingtricks.com)
 * [questioningsoftware.com](https://www.questioningsoftware.com)
 
-
-# Crowdtesting platforms
-* [utest](https://www.utest.com/)
+# Crowdtesting Platforms
+* **[utest](https://www.utest.com/)**
 * [testbirds](https://testbirds.com)
 * [we-are-testers](https://we-are-testers.com)
 
-# Webinars and podcasts
+# Webinars and Podcasts
 * PANDA - Performance and Automation #4
 * PANDA - Performance and Automation #3
 * Sii Polska - Automatyzacja testów UI aplikacji webowych
 * Testing Parrot #6 - O testowaniu mobilnym 
 
-# My test documentation
+# My Test Documentation
 * [Test Cases](https://drive.google.com/open?id=1-p-bt8dA7omWKM2mr__aBeLggMrs3YF0)
 * [Test Plan](https://drive.google.com/file/d/1Vx-CETt920NECvweRH6EqfL110uEBIMM/view?usp=sharing)
 * [Test Report](https://drive.google.com/file/d/1wOKNgqCZF3TexLnN3kLNBGFL0kD51sH4/view?usp=sharing)
