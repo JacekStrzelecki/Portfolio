@@ -38,7 +38,7 @@ This portfolio is treated by me as some kind of extension of my CV where I would
 
 # Groups on Facebook
 * Testowanie oprogramowania
-* Tester oprogramowania - wsparcie na na starcie
+* Tester oprogramowania - wsparcie na starcie
 
 # Recommended blogs
 * [testuj.pl](https://testuj.pl)
@@ -46,10 +46,10 @@ This portfolio is treated by me as some kind of extension of my CV where I would
 * [toniebug.pl](https://toniebug.pl)
 * [Poradnik Piotra Wicherskiego](https://pwicherski.gitbook.io)
 * [softwaretestingtricks.com](https://softwaretestingtricks.com)
-* [questioningsoftware.com](https://questioningsoftware.com)
+
 
 # Crowdtesting platforms
-* [utest](https://utest.com)
+* [utest](https://www.utest.com/)
 * [testbirds](https://testbirds.com)
 * [we-are-testers](https://we-are-testers.com)
 
