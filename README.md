@@ -61,7 +61,7 @@ This portfolio is treated by me as some kind of extension of my CV where I would
 * Testing Parrot #6 - O testowaniu mobilnym 
 
 # My projects
-* [Test Cases]()
+* [Test Cases](https://drive.google.com/open?id=1-p-bt8dA7omWKM2mr__aBeLggMrs3YF0)
 * [Test Plan]()
 * [Test Report]()
 
