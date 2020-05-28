@@ -1,8 +1,8 @@
 # Portfolio
 
 # About Me
-
-My name is Jacek Strzelecki. I am master of performed art and master of music art speciality - violin. I graduated from Music Academies in Bern, Switzerland and Poznań,Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
+In the past, my interests were focused on insurance matters. Being an insurance broker led me to gain strong analytical thinking skills. In my opinion a skillset needed to perform a job of insurance broker is very similar with skills a software tester must have. Thanks to that  Nowadays my goal is to develop myself in the field of software testing in order to become very good manual software tester. After gaining some commercial experience in manual testing, my development will be focused on automation tests. 
+This portfolio is treated by me as some kind of extension of my CV in which I would like to share my experience.
 
 # Tools
 * Jira (TestFLO), TestLink, MantisBT
@@ -46,6 +46,7 @@ My name is Jacek Strzelecki. I am master of performed art and master of music ar
 * toniebug.pl
 * pwicherski.gitbook.io
 * softwaretestingtricks.com
+* questioningsoftware.com
 
 # Crowdtesting platforms
 * www.utest.com
@@ -56,7 +57,7 @@ My name is Jacek Strzelecki. I am master of performed art and master of music ar
 * PANDA — Performance and Automation #4
 * PANDA — Performance and Automation #3
 * Sii Polska - Automatyzacja testów UI aplikacji webowych
-* O testowaniu mobilnym - Testing Parrot #6
+* Testing Parrot #6 - O testowaniu mobilnym 
 
 # My projects
 * Test Cases
