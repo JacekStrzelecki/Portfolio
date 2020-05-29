@@ -1,8 +1,8 @@
 # Portfolio
 
 # About Me
-<div align="justify">In the past, my interests were focused on insurance matters. Being an insurance broker enabled me to gain strong analytic thinking skills. In my opinion a skillset needed to perform a job of insurance broker is very similar with skills a software tester must have. Thanks to that I would like to take advantage of my previous experience to work in IT sector. Nowadays my goal is to develop myself in the field of software testing in order to become very good manual software tester. After gaining some commercial experience in manual testing, my development will be focused on automation tests. 
-This portfolio is treated by me as some kind of extension of my CV, where I would like to share my experience.</div>
+<div align="justify">In the past, my interests were focused on insurance matters. Being an insurance broker enabled me to gain strong analytic thinking skills. In my opinion a skillset needed to perform a job of an insurance broker is very similar with skills a software tester must have. Thanks to that I would like to take advantage of my previous experience to work in IT sector. Nowadays my goal is to develop myself in the field of software testing in order to become very good manual software tester. After gaining some commercial experience in manual testing, my development will be focused on automation tests. 
+This portfolio is considered by me as some kind of extension of my CV, where I would like to share my experience.</div>
 
 # Tools
 * Jira (TestFLO), TestLink, MantisBT
