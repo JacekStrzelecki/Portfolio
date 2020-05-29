@@ -22,7 +22,7 @@ This portfolio is considered by me as some kind of extension of my CV, where I w
 *	Creating Test Reports
 
 # Certificates
-* ISTQB Foundation Level - in progress - waiting for the date of this exam (currently stationary exams were suspended)
+* ISTQB Foundation Level - in progress 
 
 # Courses
 * **Coders Lab Szkoła IT - Kurs - Tester manualny - 144h**
