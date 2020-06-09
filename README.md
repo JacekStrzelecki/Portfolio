@@ -35,6 +35,7 @@ This portfolio is considered by me as some kind of extension of my CV, where I w
 * Radosław Smilgin - "Zawód Tester"
 * Rafał Pawlak - "Testowanie oprogramowania. Podręcznik dla początkujących"
 * Ben Forta - "SQL w mgnieniu oka"
+* Adam Roman - "Testowanie i jakość oprogramowania. Modele, techniki, narzędzia."
 * Jeff Sutherland - "SCRUM, czyli jak robić dwa razy więcej, dwa razy szybciej"
 * Arnon Axelrod - "Automatyzacja testów. Kompletny przewodnik dla testerów oprogramowania" - in progress
 * Cay S. Horstmannn - "Java. Podstawy", wydanie XI - in progress
@@ -61,6 +62,8 @@ This portfolio is considered by me as some kind of extension of my CV, where I w
 * PANDA - Performance and Automation #3
 * Sii Polska - Automatyzacja testów UI aplikacji webowych
 * Testing Parrot #6 - O testowaniu mobilnym 
+* GeekON - Transakcyjne barbecue - baza danych SQL
+* GeekON - Wspólne rozwiązywanie zadań z baz danych 
 
 # My Test Documentation
 * [Test Cases](https://drive.google.com/open?id=1-p-bt8dA7omWKM2mr__aBeLggMrs3YF0)
