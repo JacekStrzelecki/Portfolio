@@ -25,7 +25,7 @@ This portfolio is considered by me as some kind of extension of my CV, where I w
 * ISTQB Foundation Level - in progress 
 
 # Courses
-* **Coders Lab Szkoła IT - Kurs - Tester manualny - 144h**
+* **Coders Lab Szkoła IT - Manual Software Tester course - 144h**
 * Postman Bootcamp - in progress
 * Best QA Manual Software Testing: Live Project + Agile + Jira + API - online course on Udemy platform
 * „MySQL. Bazy danych, język zapytań SQL” - online course on YT - Lecturer - Mirosław Zelent
