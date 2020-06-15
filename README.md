@@ -25,7 +25,7 @@ This portfolio is considered by me as some kind of an extension of my CV, where 
 * ISTQB Foundation Level  
 
 # Courses
-* **Coders Lab Szkoła IT - Manual Software Tester course - 144h. You can check out the detailed scope of that course [here](https://drive.google.com/file/d/1wyCDWtprHobNsa2bZgSWX4ZyYNzIU5s2/view?usp=sharing)**
+* **Coders Lab Szkoła IT - Manual Software Tester course - 144h. The detailed scope of that course is [here](https://drive.google.com/file/d/1wyCDWtprHobNsa2bZgSWX4ZyYNzIU5s2/view?usp=sharing)**
 * Postman Bootcamp - in progress
 * Best QA Manual Software Testing: Live Project + Agile + Jira + API - online course on Udemy platform
 * „MySQL. Bazy danych, język zapytań SQL” - online course on YT 
