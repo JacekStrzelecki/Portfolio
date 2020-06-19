@@ -37,7 +37,7 @@ This portfolio is considered by me as some kind of an extension of my CV, where 
 * Radosław Smilgin - "Zawód Tester"
 * Rafał Pawlak - "Testowanie oprogramowania. Podręcznik dla początkujących"
 * Ben Forta - "SQL w mgnieniu oka"
-* Adam Roman - "Testowanie i jakość oprogramowania. Modele, techniki, narzędzia."
+* Adam Roman - "Testowanie i jakość oprogramowania. Modele, techniki, narzędzia" - in progress
 * Jeff Sutherland - "SCRUM, czyli jak robić dwa razy więcej, dwa razy szybciej"
 * Arnon Axelrod - "Automatyzacja testów. Kompletny przewodnik dla testerów oprogramowania" - in progress
 * Cay S. Horstmannn - "Java. Podstawy", wydanie XI - in progress
