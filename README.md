@@ -26,7 +26,7 @@ This portfolio is considered by me as some kind of an extension of my CV, where 
 
 # Courses
 * **Coders Lab Szkoła IT - Manual Software Tester course - 144h**
- 1. The certificate of completion is available [here](https://drive.google.com/file/d/16uha5DMAbQSZiSRDGmntbI7GY7SMyf_3/view?usp=sharing)
+ 1. The certificate of completion is available [here](https://drive.google.com/file/d/187hQW4k8D5PWIKlnBJpVSrcUIdKXyh_Y/view?usp=sharing)
  2. The scope of that course can be found [here](https://drive.google.com/file/d/1wyCDWtprHobNsa2bZgSWX4ZyYNzIU5s2/view?usp=sharing)
 * Postman Bootcamp - in progress
 * Best QA Manual Software Testing: Live Project + Agile + Jira + API - online course on Udemy platform
