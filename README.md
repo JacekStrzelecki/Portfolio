@@ -23,6 +23,8 @@ This portfolio is considered by me as some kind of an extension of my CV, where 
 
 # Certificates
 * ISTQB Foundation Level  
+* TELC B2 (English)
+* TELC B1 (German)
 
 # Courses
 * **Coders Lab Szkoła IT - Manual Software Tester course - 144h**
