@@ -23,8 +23,8 @@ This portfolio is considered by me as some kind of an extension of my CV, where 
 
 # Certificates
 * ISTQB Foundation Level  
-* TELC B2 (English)
-* TELC B1 (German)
+* [TELC B2 (English)] (https://drive.google.com/file/d/1HU0yE-SWurycXnp7uXyArNTnVLHy2hnG/view?usp=sharing)
+* [TELC B1 (German)] (https://drive.google.com/file/d/15Th8gWrrM8Q1rj5xw0WxJb3U4b7ysi0V/view?usp=sharing)
 
 # Courses
 * **Coders Lab Szkoła IT - Manual Software Tester course - 144h**
@@ -70,7 +70,7 @@ This portfolio is considered by me as some kind of an extension of my CV, where 
 * GeekON - Wspólne rozwiązywanie zadań z baz danych 
 
 # My Test Documentation
-* [Test Cases](https://drive.google.com/open?id=1-p-bt8dA7omWKM2mr__aBeLggMrs3YF0)
+* [Test Cases](https://drive.google.com/file/d/1-p-bt8dA7omWKM2mr__aBeLggMrs3YF0/view?usp=sharing)
 * [Test Plan](https://drive.google.com/file/d/1Vx-CETt920NECvweRH6EqfL110uEBIMM/view?usp=sharing)
 * [Test Report](https://drive.google.com/file/d/1wOKNgqCZF3TexLnN3kLNBGFL0kD51sH4/view?usp=sharing)
 
