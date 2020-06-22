@@ -23,8 +23,8 @@ This portfolio is considered by me as some kind of an extension of my CV, where 
 
 # Certificates
 * ISTQB Foundation Level  
-* [TELC B2 (English)] (https://drive.google.com/file/d/1HU0yE-SWurycXnp7uXyArNTnVLHy2hnG/view?usp=sharing)
-* [TELC B1 (German)] (https://drive.google.com/file/d/15Th8gWrrM8Q1rj5xw0WxJb3U4b7ysi0V/view?usp=sharing)
+* [TELC B2 (English)](https://drive.google.com/file/d/1HU0yE-SWurycXnp7uXyArNTnVLHy2hnG/view?usp=sharing)
+* [TELC B1 (German)](https://drive.google.com/file/d/15Th8gWrrM8Q1rj5xw0WxJb3U4b7ysi0V/view?usp=sharing)
 
 # Courses
 * **Coders Lab Szkoła IT - Manual Software Tester course - 144h**
