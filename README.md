@@ -7,7 +7,7 @@ This portfolio is considered by me as some kind of an extension of my CV, where 
 # Tools
 * Jira (TestFLO), TestLink, MantisBT
 * SoapUI, Postman
-* Basics of MySQL, HTML, CSS
+* Basics of SQL, HTML, CSS
 * Basics of Selenium IDE
 * Jing
 * Bug Magnet
@@ -30,9 +30,10 @@ This portfolio is considered by me as some kind of an extension of my CV, where 
 * **Coders Lab Szkoła IT - Manual Software Tester course - 144h**
  1. The certificate of completion is available [here](https://drive.google.com/file/d/187hQW4k8D5PWIKlnBJpVSrcUIdKXyh_Y/view?usp=sharing)
  2. The scope of that course can be found [here](https://drive.google.com/file/d/1wyCDWtprHobNsa2bZgSWX4ZyYNzIU5s2/view?usp=sharing)
+* [REST API Testing] (https://drive.google.com/file/d/1OtwqklmETZ9Q9D25KVJsiRopHmoYBfZO/view?usp=sharing) - workshops organized by "Stacja IT"
 * Postman Bootcamp - in progress
-* Best QA Manual Software Testing: Live Project + Agile + Jira + API - online course on Udemy platform
-* „MySQL. Bazy danych, język zapytań SQL” - online course on YT 
+* Best QA Manual Software Testing: Live Project + Agile + Jira + API
+* „MySQL. Databases, SQL queries” 
 * Workshops in the field of Software Testing - CODE{sun}DAY Poznań  
 
 # Books Read
