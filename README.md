@@ -13,6 +13,10 @@ This portfolio is considered by me as some kind of an extension of my CV, where 
 * Bug Magnet
 * Mouse Click Highlighter
 * Exploratory Testing Chrome Extension
+* installonair.com
+* Charles Proxy
+* Page Ruler Redux 
+* Windows Resizer
 
 # Skills
 * Testing Applications in SCRUM Methodology
