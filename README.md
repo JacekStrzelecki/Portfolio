@@ -26,7 +26,7 @@ This portfolio is considered by me as some kind of an extension of my CV, where 
 *	Creating Test Reports
 
 # Certificates
-* ISTQB Foundation Level  
+* [ISTQB Foundation Level](https://drive.google.com/file/d/15zJwS_JnDr7dEmGByNeCpGadq_Y6TFLr/view?usp=sharing)  
 * [TELC B2 (English)](https://drive.google.com/file/d/1HU0yE-SWurycXnp7uXyArNTnVLHy2hnG/view?usp=sharing)
 * [TELC B1 (German)](https://drive.google.com/file/d/15Th8gWrrM8Q1rj5xw0WxJb3U4b7ysi0V/view?usp=sharing)
 
